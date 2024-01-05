@@ -1,0 +1,15 @@
+@media (min-width:320px) and (max-width:1000px){
+   body{
+    padding: 0;
+    margin: 0;
+  }
+  main.navbar{
+    display: none;
+  }
+   
+  div .lawn{
+    width: 90%;
+    margin: auto;
+  }
+  
+}
